@@ -3,7 +3,6 @@
 - New QBCore
 
 ## Features
-- Free Script
 - Basic Config
 - Low Resmon
 - Item Vape
