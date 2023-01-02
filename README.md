@@ -17,6 +17,5 @@ ensure rz-vape
 ```
 ## Showcase
 - https://youtu.be/SVM-ORQwK_I
-- 
 ## Discord
 - https://discord.gg/zertxMj7Yh
