@@ -1,5 +1,6 @@
 # rz-vape
 - Vape Script [QBCORE]
+- New QBcore
 
 ## Features
 - Free Script
