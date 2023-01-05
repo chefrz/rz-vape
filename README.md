@@ -7,6 +7,9 @@
 - Low Resmon
 - Item Vape
 
+## Dependencies
+- [qb-core](https://github.com/qbcore-framework/qb-core)
+
 ## Installation
 ### Manual
 - Add the vape item image to `qb-inventory/html/images`
