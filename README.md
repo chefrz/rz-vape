@@ -1,4 +1,4 @@
-![image](https://media.discordapp.net/attachments/352733374235803648/1060477897984450601/VAPE.png?width=960&height=244)
+![image](https://cdn.discordapp.com/attachments/352733374235803648/1060477897984450601/VAPE.png)
 
 # rz-vape
 - Vape Script [QBCORE]
