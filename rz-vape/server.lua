@@ -3,6 +3,7 @@ local use = false
 
 QBCore.Functions.CreateUseableItem('vape', function(source) 
 	if not use then
+		TriggerClientEvent('QBCore:Notify', source, "Hold 'E' key to inhale smoke", "error", 5000)
 		TriggerClientEvent("Vape:StartVaping", source, 0)
 		use = true
 	else
