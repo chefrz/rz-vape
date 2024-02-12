@@ -82,6 +82,10 @@ AddEventHandler("c_eff_smokes", function(c_ped)
 		if DoesEntityExist(NetToPed(c_ped)) and not IsEntityDead(NetToPed(c_ped)) then
 			createdSmoke = UseParticleFxAssetNextCall(p_smoke_particle_asset)
 			createdPart = StartParticleFxLoopedOnEntityBone(p_smoke_particle, NetToPed(c_ped), 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, GetPedBoneIndex(NetToPed(c_ped), bones), Config.SmokeSize, 0.0, 0.0, 0.0)
+			print('test')
+			if Config.Stress then
+				TriggerServerEvent('hud:server:RelieveStress', math.random(Config.Stress_min, Config.Stress_max))
+			end
 			Wait(Config.VapeHangTime)
 			--Wait(250)
 			while DoesParticleFxLoopedExist(createdSmoke) do
