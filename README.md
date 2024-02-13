@@ -7,7 +7,7 @@
 ## Showcase
 - https://youtu.be/SVM-ORQwK_I
 ## Discord
-- https://discord.gg/zertxMj7Yh
+- https://discord.gg/3JHgCdUFtG
 
 ## Update
 - You use vape from now on, your stress will decrease and updated the setup lines
